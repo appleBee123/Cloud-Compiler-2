@@ -1,0 +1,16 @@
+.searchitem
+      {
+        text-align: center;  
+      }
+      
+.searchitem:hover
+      {
+          background-color: mintcream;
+          font-weight: bolder;
+      }
+      
+.mylist:hover
+      {
+          background-color: mintcream;
+          font-weight: bolder;
+      }
